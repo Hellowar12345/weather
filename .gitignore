@@ -6,10 +6,6 @@ __pycache__/
 # Streamlit
 .streamlit/
 
-# Database
-*.db
-*.sqlite3
-
 # Virtual environments
 .env
 .venv
@@ -22,6 +18,3 @@ venv.bak/
 # Temp files
 temp_out_utf8.txt
 location_names.txt
-weather_raw.json
-weather_by_region.json
-temperature_data.json
